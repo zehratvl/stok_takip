@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222748934662",
+    "project_id": "stok-takip-32df4",
+    "storage_bucket": "stok-takip-32df4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222748934662:android:6dc0705b3ec86738227987",
+        "android_client_info": {
+          "package_name": "com.example.stok_takip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyTEP47SJdrc6k6-armg0JT9CLDwUU6W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
